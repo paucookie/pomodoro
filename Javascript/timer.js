@@ -1,8 +1,6 @@
 /* Variables */
 let time = 0;
 let timer = null;
-let timerBreak = null;
-let current = null;
 //Array de tiempo
 let timeArray = [25 * 60 , 15 * 60, 5 * 60];
 
